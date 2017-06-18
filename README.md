@@ -9,4 +9,6 @@ Dictionary.com is a free website which provides meanings for words.This is a pyt
 3. Follow the prompts in the program.
 
 ## ScreenCapture
-![before](https://github.com/aman15012/seeQuora/blob/master/img/before.png)
+![1](https://github.com/aman15012/MyDicApp/blob/master/img/1.png)
+![2](https://github.com/aman15012/MyDicApp/blob/master/img/2.png)
+![3](https://github.com/aman15012/MyDicApp/blob/master/img/3.png)
