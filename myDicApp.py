@@ -42,9 +42,9 @@ while(True):
 			for i in range(len(def_list)):
 				if(i>=5):
 					break
-				print(str(i+1) + ". " + def_list[i].text.strip())
+				print(str(i+1) + ". " + " ".join(def_list[i].text.split()))
 		else:
 			print("\nThis is a phrase. Use in a Sentence:")
 			def_list = soup.find_all("p", { "class" : "def-text" } )
-			print(def_list[0].text.strip())
+			print(" ".join(def_list[0].text.split()))
 
