@@ -8,7 +8,7 @@ Dictionary.com is a free website which provides meanings for words.This is a pyt
 2. Run the code on your IDE or on the terminal.
 3. Follow the prompts in the program.
 
-## ScreenCapture
+## ScreenCaptures
 ### (The lines in the background are due to the transparency of the terminal.)
 ![1](https://github.com/aman15012/MyDicApp/blob/master/img/1.png)
 ![2](https://github.com/aman15012/MyDicApp/blob/master/img/2.png)
